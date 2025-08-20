@@ -4,16 +4,16 @@ public:
         int max_int = 2147483647, min_int = -2147483648;
         int i = 0, n = s.length(), sign = 1, result = 0;
         
-        // Step 1: Skip leading whitespace
+        //skp  leading whitespace
         while (i < n && s[i] == ' ') i++;
         
-        // Step 2: Check for optional sign
+        //chck for optional sign
         if (i < n && (s[i] == '-' || s[i] == '+')) {
             sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
         
-        // Step 3: Convert digits to integer
+        //cnvrt digits to integer
         while (i < n && isdigit(s[i])) {
             int digit = s[i] - '0';
             // Check for overflow
