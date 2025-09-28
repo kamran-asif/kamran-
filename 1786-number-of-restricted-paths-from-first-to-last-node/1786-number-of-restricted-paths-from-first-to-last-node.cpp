@@ -1,6 +1,6 @@
 class Solution {
 public:
-//sala quesn hi smjh ni aya hrd one revisit
+//tough hrd one revisit
     const int MOD=1e9+7;
     vector<vector<pair<int,int>>>graph;
     vector<long long>dist;
