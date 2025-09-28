@@ -3,7 +3,7 @@ public: // kafi acha sval h
     int networkBecomesIdle(vector<vector<int>>& edges, vector<int>& patience){
         int n=patience.size();
         vector<vector<int>>graph(n);
-        //kch na adjncy lst bna re bs
+
         for (auto &e:edges){
             graph[e[0]].push_back(e[1]);
             graph[e[1]].push_back(e[0]);
@@ -33,8 +33,8 @@ public: // kafi acha sval h
 
             // lst scnd srvr i ne msg bhja befre rply aya
             int lstsnd=((rt-1)/patience[i])*patience[i]
-             
-            long long lstarrival=(long long)lstsnd+rt; // lst msg k rply srvr i pr ane k time
+             // lst msg k rply srvr i pr ane k time
+            long long lstarrival=(long long)lstsnd+rt;
 
             ans=max(ans,lstarrival); 
         }
