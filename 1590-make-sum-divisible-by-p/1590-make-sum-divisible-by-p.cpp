@@ -1,5 +1,5 @@
 class Solution {
-public: //t.c=o(n) i guess s.c=o(min(n,p))
+public: 
     int minSubarray(vector<int>& nums, int p) {
       long long ttlsum=0;
       for(int x:nums)ttlsum+=x;
