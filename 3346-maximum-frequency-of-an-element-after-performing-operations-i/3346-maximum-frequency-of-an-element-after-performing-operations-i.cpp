@@ -23,7 +23,7 @@ public:
             int ub = min(i+k, maxEle);
 
             int numOfEle = prefix[ub+1] - prefix[lb];
-            int numOfZero = freq[i]; //The ones who don't require operation
+            int numOfZero = freq[i]; //the ones who don't require oprtin
 
             int numOfValidOp = min(numOperations, numOfEle - numOfZero);
 
