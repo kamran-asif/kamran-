@@ -29,5 +29,5 @@ public:
         return distinct.size();
     }
     
-    }
-    }
+    
+    };
