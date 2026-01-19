@@ -12,12 +12,12 @@ public:
             int prev_smaller = 0;
             for (int i = 0; i < j; ++i) {
                 if (nums[i] < nums[j]) {
-                    // This (i, j) can serve as (a, d) for any existing (b, c) pairs
+                    // this (i, j) can serve as (a, d) for any existing (b, c) pairs
                     count += cnt[i];
                     prev_smaller++;
                 } else if (nums[i] > nums[j]) {
-                    // If nums[i] > nums[j], then (i, j) can be a (b, c) pair.
-                    // We add the number of 'a's found so far (prev_smaller) to cnt[i].
+                    // if nums[i]>nums[j], then (i, j) can be a (b, c) pair.
+                    // we add the number of a s found so far (prev_smaller) to cnt[i].
                     cnt[i] += prev_smaller;
                 }
             }
