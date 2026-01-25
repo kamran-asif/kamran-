@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution{
 public:
 int minimumDifference(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
