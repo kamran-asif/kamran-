@@ -28,6 +28,6 @@ void solve(vector<int>& nums, vector<int>&temp){
 solve(nums,temp);
 return result;
 
-    } 
+    }
 };
    
