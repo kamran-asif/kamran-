@@ -13,7 +13,7 @@ public:
 
             }else{
              start=mid+1;
-          }
+                }
           }else{
             if(nums[mid]<=target&&target<=nums[end]){
                 start=mid+1;
