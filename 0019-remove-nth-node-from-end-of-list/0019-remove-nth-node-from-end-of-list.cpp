@@ -5,7 +5,7 @@ public:
         ListNode* dummy = res;
 
         for (int i = 0; i < n; i++) {
-            head = head->next;
+          head = head->next;
         }
 
         while (head != nullptr) {
