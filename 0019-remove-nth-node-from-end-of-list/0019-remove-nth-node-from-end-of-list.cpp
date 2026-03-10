@@ -11,7 +11,6 @@ public:
             head = head->next;
             dummy = dummy->next;
         }
-
         dummy->next = dummy->next->next;
 
         ListNode* result = res->next;
