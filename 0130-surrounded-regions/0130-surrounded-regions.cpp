@@ -13,7 +13,7 @@ private:
                 dfs(nrow, ncol, vis, mat, delrow, delcol);
             }
         }
-    }
+ }
 
 public:
     void solve(vector<vector<char>>& board) {
