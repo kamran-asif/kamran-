@@ -44,7 +44,7 @@ public:
                 if (!vis[i][j] && board[i][j] == 'O') {
                     board[i][j] = 'X';
                 }
-            }
+           }
         }
     }
 };
