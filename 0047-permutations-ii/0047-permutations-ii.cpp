@@ -20,7 +20,7 @@ void solve(vector<int>& nums, vector<int>&temp){
            temp.pop_back();
            st.erase(nums[i]);
         }
-      }
+     }
 }
     vector<vector<int>> permute(vector<int>& nums) {
  int  n=nums.size();
