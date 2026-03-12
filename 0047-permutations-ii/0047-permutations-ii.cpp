@@ -18,7 +18,7 @@ void solve(vector<int>& nums, vector<int>&temp){
            st.insert(nums[i]);
            solve(nums,temp);
            temp.pop_back();
-           st.erase(nums[i]);
+          st.erase(nums[i]);
         }
      }
 }
