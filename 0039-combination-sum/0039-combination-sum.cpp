@@ -12,7 +12,7 @@ public:
                 current.push_back(candidates[i]);
                 findCombinations(i, candidates, target - candidates[i], current, result);
                current.pop_back();
-            }
+           }
         }
     }
     
