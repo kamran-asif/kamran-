@@ -11,7 +11,7 @@ public:
             if (candidates[i] <= target) {
                 current.push_back(candidates[i]);
                 findCombinations(i, candidates, target - candidates[i], current, result);
-                current.pop_back();
+               current.pop_back();
             }
         }
     }
