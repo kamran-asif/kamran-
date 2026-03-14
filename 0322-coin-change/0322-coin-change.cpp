@@ -11,8 +11,7 @@ public:
                     dp[i]=min(dp[i],1+dp[i-c]);
              }
 
-                }
-            }
+                }            }
             return (dp[amount]==amount+1)?-1:dp[amount];
         }
     
