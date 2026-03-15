@@ -11,7 +11,7 @@ public:
         for (int i=0;i<numCourses;i++) {
             for (auto it:adj[i]) {
                 indegree[it]++;
-            }
+           }
         }
 // queue use kr rhe hai indegree store krne k liy 
         queue<int> q;
