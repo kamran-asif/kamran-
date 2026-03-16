@@ -2,7 +2,7 @@ class Solution {
 public://hash set quesn where we store 3 variable wrna baki m 2 variable hi store krta h
     bool isValidSudoku(vector<vector<char>>& board) {
         vector<unordered_set<char>> rows(9), cols(9), boxes(9);
-        for(int i = 0; i < 9; i++) {
+     for(int i = 0; i < 9; i++) {
             for(int j = 0; j < 9; j++) {
                 char num = board[i][j];
                 if(num == '.') {
