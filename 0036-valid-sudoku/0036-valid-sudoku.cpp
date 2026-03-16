@@ -13,7 +13,7 @@ public://hash set quesn where we store 3 variable wrna baki m 2 variable hi stor
                     return false;
                 }
                 rows[i].insert(num);
-                cols[j].insert(num);
+            cols[j].insert(num);
                 boxes[boxindex].insert(num);
             }
         }
