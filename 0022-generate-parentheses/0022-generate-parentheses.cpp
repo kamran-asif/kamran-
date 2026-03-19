@@ -9,7 +9,7 @@ public:
         vector<string> result;
         generate(result, "", 0, 0, n);
         return result;
-    }
+   }
     
     void generate(vector<string>& result, string current, int open, int close, int n) {
         if (open == n && close== n) {
