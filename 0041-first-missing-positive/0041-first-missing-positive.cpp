@@ -16,7 +16,7 @@ public:
             //agr posn i par i+1 nhi mila,to i+1 missng h
             if(nums[i]!=i+1){
                 return i+1;
-            }
+          }
         }
         //agr sb position match kr gye to nxt positive n+1 missing h
         return n+1;
