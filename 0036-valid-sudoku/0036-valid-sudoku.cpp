@@ -5,7 +5,7 @@ public://hash set quesn where we store 3 variable wrna baki m 2 variable hi stor
      for(int i = 0; i < 9; i++) {
             for(int j = 0; j < 9; j++) {
                 char num = board[i][j];
-                if(num == '.') {
+                if(num == '.'){
                     continue;
                 }
                 int boxindex = (i / 3) * 3 + (j / 3);
