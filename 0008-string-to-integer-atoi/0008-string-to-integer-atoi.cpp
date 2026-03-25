@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     int myAtoi(string s) {
         int max_int = 2147483647, min_int = -2147483648;
