@@ -12,7 +12,7 @@ public:
             sign = (s[i] == '-') ? -1 : 1;
             i++;
         }
-        
+    
         //cnvrt digts to integer
         while (i < n && isdigit(s[i])) {
             int digit = s[i] - '0';
