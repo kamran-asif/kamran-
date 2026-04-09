@@ -18,7 +18,7 @@ public:
         // comparator for min heap
         auto cmp = [](ListNode* a, ListNode* b) {
             return a->val > b->val;
-        };
+      };
         std::priority_queue<ListNode*, std::vector<ListNode*>, decltype(cmp)> pq(cmp);
 
         // heads ko heap me dalo
