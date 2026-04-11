@@ -6,7 +6,7 @@ public:
         int left = 1, right = x, ans = 0;
         while (left <= right) {
             long long mid = left + (right - left) / 2;
-            if (mid * mid == x) {
+           if (mid * mid == x) {
                 return mid; 
             } else if (mid * mid < x) {
                 ans = mid; 
