@@ -4,7 +4,6 @@ public:
         if (s1.length() != s2.length()) {
             return false;
         }
-
         int counts[256] = {0};
 
         for (int i = 0; i < s1.length(); i++) {
