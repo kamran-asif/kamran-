@@ -5,7 +5,7 @@ public:
         int i = 0, n = s.length(), sign = 1, result = 0;
         
         //skp  leading whitspace
-        while (i < n && s[i] == ' ') i++;
+     while (i < n && s[i] == ' ') i++;
         
         //chck for optional sign
         if (i < n && (s[i] == '-' || s[i] == '+')) {
