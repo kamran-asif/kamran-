@@ -1,4 +1,4 @@
-/**
+w/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -20,7 +20,7 @@ public:
       };
         std::priority_queue<ListNode*, std::vector<ListNode*>, decltype(cmp)> pq(cmp);
 
-        // heads ko heap me dalo
+       // heads ko heap me dalo
         if (list1) pq.push(list1);
         if (list2) pq.push(list2);
 
