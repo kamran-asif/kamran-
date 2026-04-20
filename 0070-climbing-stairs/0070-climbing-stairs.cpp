@@ -4,7 +4,7 @@ public:
   int climbStairs(int n) {
         if(n==1||n==2)
             return n;
-        vector<int>dp(n+1,-1);
+       vector<int>dp(n+1,-1);
        //t[i] = total ways to climb i stairs
         dp[0]=0;
         dp[1]=1;
