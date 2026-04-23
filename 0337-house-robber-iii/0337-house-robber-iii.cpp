@@ -18,7 +18,6 @@ public:
 
         auto left = dfs(root->left);
         auto right = dfs(root->right);
-
         int take = root->val + left.second + right.second;
         int skip = max(left.first, left.second) + max(right.first, right.second);
 
