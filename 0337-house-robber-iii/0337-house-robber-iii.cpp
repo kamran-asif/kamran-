@@ -20,7 +20,7 @@ public:
         int take = root->val + left.second + right.second;
         int skip = max(left.first, left.second) + max(right.first, right.second);
 
-        return {take, skip};
+       return {take, skip};
     }
 
     int rob(TreeNode* root) {
