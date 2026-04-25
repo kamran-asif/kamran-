@@ -6,7 +6,7 @@ public:
         memset(rowSum, 0, r*8);
         memset(colSum, 0, c*8);
         for (int i=0; i<r; i++){
-            if (i>0)[[likely]]
+         if (i>0)[[likely]]
                 rowSum[i]+=rowSum[i-1];
             for(int j=0; j<c; j++){
                 const int x=grid[i][j];
