@@ -15,7 +15,6 @@ public:
     // returns {take, skip}
     pair<int, int> dfs(TreeNode* root) {
         if (!root) return {0, 0};
-
         auto left = dfs(root->left);
         auto right = dfs(root->right);
         int take = root->val + left.second + right.second;
