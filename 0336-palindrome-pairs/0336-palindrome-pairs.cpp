@@ -11,7 +11,6 @@ public:
     vector<vector<int>> palindromePairs(vector<string>& words) {
         vector<vector<int>> result;
         unordered_map<string, int> reversemap;
-
         //har word ka reverse banake map mein store karo
         for (int i = 0; i < words.size(); i++) {
             string rev = words[i];
