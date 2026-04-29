@@ -5,8 +5,7 @@ public:
         while (left < right) {
             if (str[left++] != str[right--]) return false;
         }
-        return true;
-    }
+        return true;    }
 
     vector<vector<int>> palindromePairs(vector<string>& words) {
         vector<vector<int>> result;
