@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //check if string from left to right is palindrome
+//check if string from left to right is palindrome
     bool ispalindrome(const string& str, int left, int right) {
         while (left < right) {
             if (str[left++] != str[right--]) return false;
