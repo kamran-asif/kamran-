@@ -1,5 +1,5 @@
 long long rowSum[100000], colSum[100000];
-class Solution {
+class Solution{
 public:
     static bool canPartitionGrid(vector<vector<int>>& grid) {
         const int r=grid.size(), c=grid[0].size();
