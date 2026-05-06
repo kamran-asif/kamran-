@@ -3,7 +3,7 @@ class Solution{
 public:
     static bool canPartitionGrid(vector<vector<int>>& grid) {
         const int r=grid.size(), c=grid[0].size();
-        memset(rowSum, 0, r*8);
+    memset(rowSum, 0, r*8);
         memset(colSum, 0, c*8);
       for (int i=0; i<r; i++){
          if (i>0)[[likely]]
