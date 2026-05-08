@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,8 +53,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
