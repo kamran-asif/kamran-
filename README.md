@@ -44,6 +44,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +111,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 <!---LeetCode Topics End-->
