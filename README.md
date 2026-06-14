@@ -104,6 +104,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2076-process-restricted-friend-requests](https://github.com/kamran-asif/kamran-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -147,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2076-process-restricted-friend-requests](https://github.com/kamran-asif/kamran-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 <!---LeetCode Topics End-->
