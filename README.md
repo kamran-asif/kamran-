@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kamran-asif/kamran-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
+| [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
@@ -87,6 +89,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -152,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2076-process-restricted-friend-requests](https://github.com/kamran-asif/kamran-/tree/main/2076-process-restricted-friend-requests/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
