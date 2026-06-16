@@ -163,4 +163,8 @@
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/kamran-asif/kamran-/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
