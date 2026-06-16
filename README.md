@@ -12,6 +12,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -33,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -40,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Array
