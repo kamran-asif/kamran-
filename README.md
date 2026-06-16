@@ -5,6 +5,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kamran-asif/kamran-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -95,6 +96,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -171,4 +173,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/kamran-asif/kamran-/tree/main/0052-n-queens-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
