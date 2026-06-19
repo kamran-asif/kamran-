@@ -106,3 +106,4 @@ public:
         return next[0][cols - 1];
     }
 };
+//har state (r,c1,c2) se hum 9 possible next states check karte hain aur jo maximum cherries deta hai usko choose karte hain. This is the core idea of the DP.
