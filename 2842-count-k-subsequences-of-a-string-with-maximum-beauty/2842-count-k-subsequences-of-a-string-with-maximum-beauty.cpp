@@ -1,79 +1,97 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
-    long long C[27][27];
-    
-    // Precompute combinations (nCr) using Pascal's Triangle
-    void buildCombinations() {
-        for (int i = 0; i <= 26; i++) {
-            C[i][0] = 1;
-            for (int j = 1; j <= i; j++) {
-                C[i][j] = (C[i - 1][j - 1] + C[i - 1][j]) % 1000000007;
-            }
+    static const long long MOD = 1e9 + 7;
+
+    // Fast modular exponentiation
+    long long power(long long base, long long exp, long long mod) {
+        long long result = 1;
+        base %= mod;
+        while (exp > 0) {
+            if (exp & 1) result = result * base % mod;
+            base = base * base % mod;
+            exp >>= 1;
         }
+        return result;
+    }
+
+    // Precompute factorials and inverse factorials for C(n, r)
+    vector<long long> fact, inv_fact;
+
+    void precompute(int n) {
+        fact.resize(n + 1);
+        inv_fact.resize(n + 1);
+        fact[0] = 1;
+        for (int i = 1; i <= n; i++)
+            fact[i] = fact[i - 1] * i % MOD;
+        inv_fact[n] = power(fact[n], MOD - 2, MOD);
+        for (int i = n - 1; i >= 0; i--)
+            inv_fact[i] = inv_fact[i + 1] * (i + 1) % MOD;
+    }
+
+    // Combination C(n, r) mod p
+    long long C(int n, int r) {
+        if (r < 0 || r > n) return 0;
+        return fact[n] % MOD * inv_fact[r] % MOD * inv_fact[n - r] % MOD;
     }
 
 public:
     int countKSubsequencesWithMaxBeauty(string s, int k) {
-        long long MOD = 1e9 + 7;
-        
-        // Step 1: Count frequency of each character
-        vector<long long> freq(26, 0);
-        for (char c : s) {
-            freq[c - 'a']++;
-        }
-        
-        // Extract non-zero frequencies
-        vector<long long> counts;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] > 0) {
-                counts.push_back(freq[i]);
-            }
-        }
-        
-        // Edge Case: Not enough unique characters to form a k-subsequence
-        if (counts.size() < k) return 0;
-        
-        // Step 2: Sort frequencies descending to greedily pick highest
-        sort(counts.rbegin(), counts.rend());
-        
-        // Identify the cut-off frequency boundary
-        long long X = counts[k - 1]; 
-        
-        long long greater_count = 0; // Chars with freq > X
-        long long equal_count = 0;   // Chars with freq == X
-        
-        for (long long c : counts) {
-            if (c > X) greater_count++;
-            else if (c == X) equal_count++;
-        }
-        
-        // How many chars of frequency X do we actually need to reach exactly k chars?
-        long long needed = k - greater_count;
-        
-        // Precompute nCr values up to 26
-        buildCombinations();
-        
+        // Step 1: Frequency count
+        int freq[26] = {};
+        for (char c : s) freq[c - 'a']++;
+
+        // Step 2: Collect non-zero frequencies
+        vector<int> freqs;
+        for (int i = 0; i < 26; i++)
+            if (freq[i] > 0) freqs.push_back(freq[i]);
+
+        int distinct = freqs.size();
+
+        // Edge case: not enough distinct chars to form k-subsequence
+        if (distinct < k) return 0;
+
+        // Edge case: k == 0 → 1 empty subsequence
+        if (k == 0) return 1;
+
+        // Step 3: Sort descending
+        sort(freqs.begin(), freqs.end(), greater<int>());
+
+        // Step 4: Precompute factorials up to distinct (max n for C(n,r))
+        precompute(distinct);
+
+        // Step 5: Greedily pick top-k characters
         long long ans = 1;
-        
-        // Step 3: Multiply the ways to pick the mandatory elements (freq > X)
-        for (int i = 0; i < greater_count; i++) {
-            ans = (ans * counts[i]) % MOD;
+        int remaining = k;
+
+        int i = 0;
+        while (i < distinct && remaining > 0) {
+            int cur_freq = freqs[i];
+
+            // Count how many chars share this exact frequency (tie group)
+            int j = i;
+            while (j < distinct && freqs[j] == cur_freq) j++;
+            int group_size = j - i;  // number of chars with this frequency
+
+            if (group_size <= remaining) {
+                // Take ALL chars in this group
+                // Each char contributes cur_freq ways (pick 1 of cur_freq positions)
+                // → multiply by cur_freq^group_size
+                ans = ans % MOD * power(cur_freq, group_size, MOD) % MOD;
+                remaining -= group_size;
+            } else {
+                // Tie boundary: need 'remaining' out of 'group_size' chars
+                // Ways = C(group_size, remaining) * cur_freq^remaining
+                ans = ans % MOD
+                    * C(group_size, remaining) % MOD
+                    * power(cur_freq, remaining, MOD) % MOD;
+                remaining = 0;
+            }
+
+            i = j;  // move to next group
         }
-        
-        // Step 4: Multiply by the number of ways to choose 'needed' elements out of 'equal_count'
-        ans = (ans * C[equal_count][needed]) % MOD;
-        
-        // Step 5: Multiply the ways to pick those chosen 'needed' elements from the string
-        for (int i = 0; i < needed; i++) {
-            ans = (ans * X) % MOD;
-        }
-        
-        return ans;
+
+        return (int)(ans % MOD);
     }
 };
