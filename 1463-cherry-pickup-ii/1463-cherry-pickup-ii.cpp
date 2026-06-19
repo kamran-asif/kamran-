@@ -1,5 +1,5 @@
 class Solution {
-public:
+public:// hmesha dhyan rkhna ki ye robot or matrix rhe to dp hi lgega bottom up sp
     int cherryPickup(vector<vector<int>>& grid) {
 
         int rows = grid.size();      // total rows
