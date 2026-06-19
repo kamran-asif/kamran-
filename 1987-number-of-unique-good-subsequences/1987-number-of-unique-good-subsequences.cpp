@@ -19,7 +19,6 @@ public:
                 hasZero = true;
             }
         }
-
         return (end0 + end1 + (hasZero ? 1 : 0)) % MOD;
     }
 };
