@@ -23,6 +23,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/kamran-asif/kamran-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
+| [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
@@ -216,4 +218,8 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 <!---LeetCode Topics End-->
