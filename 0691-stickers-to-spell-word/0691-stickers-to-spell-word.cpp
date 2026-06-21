@@ -11,7 +11,7 @@ public:
         // to create characters represented by mask
         vector<int> dp(N, INT_MAX);
 
-        // base state
+        // base case
         dp[0] = 0;
 
         // ============================
