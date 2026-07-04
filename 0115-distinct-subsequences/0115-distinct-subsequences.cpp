@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-class Solution {
-public:
+class Solution {public:
     int numDistinct(string s, string t) {
        int m = s.size(), n = t.size();
 
