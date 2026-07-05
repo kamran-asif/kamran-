@@ -3,7 +3,6 @@ using namespace std;
 class Solution {public:
     int numDistinct(string s, string t) {
        int m = s.size(), n = t.size();
-
         // Edge cases
         if (n > m) return 0;          // t longer than s → impossible
         if (n == 0) return 1;          // empty t is subseq of anything (1 way)
