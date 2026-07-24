@@ -11,6 +11,7 @@
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/kamran-asif/kamran-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kamran-asif/kamran-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1987-number-of-unique-good-subsequences](https://github.com/kamran-asif/kamran-/tree/main/1987-number-of-unique-good-subsequences/) | Hard |
@@ -48,6 +49,7 @@
 | [0098-validate-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
@@ -57,6 +59,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -65,6 +68,7 @@
 | [0098-validate-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Array
 | Problem Name | Difficulty |
