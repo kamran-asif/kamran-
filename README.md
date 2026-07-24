@@ -32,6 +32,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1987-number-of-unique-good-subsequences](https://github.com/kamran-asif/kamran-/tree/main/1987-number-of-unique-good-subsequences/) | Hard |
@@ -78,6 +79,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
