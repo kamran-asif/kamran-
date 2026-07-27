@@ -8,8 +8,7 @@ public:
             projects.push_back({capital[i], profits[i]});
         }
 
-        // Step 2: projects ko required capital ke increasing order mein sort kar diya
-        // Taaki hum easily dekh sakein kaunse projects current capital se affordable hain
+        // Step 2: projects ko required capital ke increasing order mein sort kar diya        // Taaki hum easily dekh sakein kaunse projects current capital se affordable hain
         sort(projects.begin(), projects.end());
 
         // Step 3: max heap banaya profits ke liye
