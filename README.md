@@ -19,6 +19,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Dynamic Programming
@@ -133,6 +134,7 @@
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kamran-asif/kamran-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -225,6 +228,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
@@ -277,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
