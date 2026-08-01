@@ -29,6 +29,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
+| [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamran-asif/kamran-/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -79,6 +80,7 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/kamran-asif/kamran-/tree/main/0051-n-queens/) | Hard |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
+| [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
+| [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -250,6 +253,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 ## Backtracking
@@ -267,6 +271,7 @@
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
+| [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
