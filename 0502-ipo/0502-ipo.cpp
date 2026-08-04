@@ -3,7 +3,7 @@ public:
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
         int n = profits.size();
         // Step 1: har project ko {required_capital, profit} ke form mein store kar rahe hain
-        vector<pair<long long,long long>> projects;
+    vector<pair<long long,long long>> projects;
         for (int i = 0; i < n; i++) {
             projects.push_back({capital[i], profits[i]});
         }
