@@ -1,8 +1,7 @@
 class Solution {
 public:
     int minFlips(string s) {
-        // Characteristic function
-        auto I = [](char ch, int x) -> int { return ch - '0' == x; };
+        // Characteristic function        auto I = [](char ch, int x) -> int { return ch - '0' == x; };
         int n = s.size();
         vector<vector<int>> pre(n, vector<int>(2));
         // Note the boundary case when i=0
