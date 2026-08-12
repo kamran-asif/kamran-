@@ -332,4 +332,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1193-monthly-transactions-i](https://github.com/kamran-asif/kamran-/tree/main/1193-monthly-transactions-i/) | Medium |
 <!---LeetCode Topics End-->
