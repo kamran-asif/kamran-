@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
@@ -285,6 +286,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -352,4 +354,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
