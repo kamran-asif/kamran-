@@ -10,6 +10,7 @@
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/kamran-asif/kamran-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kamran-asif/kamran-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
@@ -163,6 +165,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
