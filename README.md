@@ -91,6 +91,7 @@
 | [0001-two-sum](https://github.com/kamran-asif/kamran-/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/kamran-asif/kamran-/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -250,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
