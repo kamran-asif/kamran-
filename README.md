@@ -361,6 +361,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/kamran-asif/kamran-/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/kamran-asif/kamran-/tree/main/0177-nth-highest-salary/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/kamran-asif/kamran-/tree/main/1193-monthly-transactions-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
