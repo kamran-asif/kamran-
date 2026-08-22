@@ -59,6 +59,7 @@
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamran-asif/kamran-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Tree
@@ -116,6 +117,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamran-asif/kamran-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -160,6 +162,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamran-asif/kamran-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
