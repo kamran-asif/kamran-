@@ -134,6 +134,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
