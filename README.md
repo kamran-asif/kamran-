@@ -111,6 +111,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
@@ -270,6 +271,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
