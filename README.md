@@ -33,6 +33,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kamran-asif/kamran-/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/kamran-asif/kamran-/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -362,6 +364,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamran-asif/kamran-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
