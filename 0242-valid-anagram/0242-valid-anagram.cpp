@@ -1,21 +1,19 @@
-class Solution{
-    public:
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+  int freqtable[256]={0};
+  for(int i=0;i<s.size();i++){
+    freqtable[s[i]]++;
+  }
 
-bool isAnagram(string s, string t) {
-    if (s.length() != t.length())
-        return false;
-
-    map<char, int> mp1;
-    map<char, int> mp2;
-
-    for (char c : s) {
-        mp1[c]++;
-    }
-
-    for (char c : t) {
-        mp2[c]++;
-    }
-
-    return mp1 == mp2;
+ for(int j= 0;j<t.size();j++)  {
+   freqtable[t[j]]--;
+ }
+for(int i=0;i<256;i++){
+     if(freqtable[i]!=0){
+    return false;
+  }
 }
+return true;   
+    }
 };
