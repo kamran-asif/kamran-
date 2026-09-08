@@ -228,6 +228,7 @@
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/kamran-asif/kamran-/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kamran-asif/kamran-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3870-count-commas-in-range](https://github.com/kamran-asif/kamran-/tree/main/3870-count-commas-in-range/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
