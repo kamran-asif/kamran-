@@ -157,6 +157,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
@@ -255,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -318,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -356,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -418,6 +422,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
