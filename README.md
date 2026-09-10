@@ -78,6 +78,7 @@
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamran-asif/kamran-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/kamran-asif/kamran-/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamran-asif/kamran-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -98,6 +100,7 @@
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamran-asif/kamran-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
