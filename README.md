@@ -56,6 +56,7 @@
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kamran-asif/kamran-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1987-number-of-unique-good-subsequences](https://github.com/kamran-asif/kamran-/tree/main/1987-number-of-unique-good-subsequences/) | Hard |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
@@ -229,6 +231,7 @@
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
@@ -285,6 +288,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search Tree
