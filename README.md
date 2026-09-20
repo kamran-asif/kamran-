@@ -42,6 +42,7 @@
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -196,6 +197,7 @@
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -399,6 +401,7 @@
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
@@ -537,6 +540,7 @@
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Suffix Array
 | Problem Name | Difficulty |
@@ -548,6 +552,7 @@
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -602,6 +607,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -631,4 +637,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 <!---LeetCode Topics End-->
