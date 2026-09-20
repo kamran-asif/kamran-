@@ -42,6 +42,7 @@
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3280-convert-date-to-binary](https://github.com/kamran-asif/kamran-/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -195,6 +196,7 @@
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
@@ -274,6 +276,7 @@
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -396,6 +399,7 @@
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/kamran-asif/kamran-/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
