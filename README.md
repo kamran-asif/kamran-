@@ -10,6 +10,7 @@
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
@@ -46,6 +47,7 @@
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0337-house-robber-iii](https://github.com/kamran-asif/kamran-/tree/main/0337-house-robber-iii/) | Medium |
@@ -136,6 +138,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
@@ -218,6 +221,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/kamran-asif/kamran-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
@@ -331,6 +335,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -394,6 +399,7 @@
 | [0052-n-queens-ii](https://github.com/kamran-asif/kamran-/tree/main/0052-n-queens-ii/) | Hard |
 | [0113-path-sum-ii](https://github.com/kamran-asif/kamran-/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -419,6 +425,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0546-remove-boxes](https://github.com/kamran-asif/kamran-/tree/main/0546-remove-boxes/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 ## Counting Sort
