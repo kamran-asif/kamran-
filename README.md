@@ -217,6 +217,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/kamran-asif/kamran-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
@@ -436,6 +437,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamran-asif/kamran-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamran-asif/kamran-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/kamran-asif/kamran-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kamran-asif/kamran-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
