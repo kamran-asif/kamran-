@@ -142,6 +142,7 @@
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
@@ -225,6 +226,7 @@
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/kamran-asif/kamran-/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
@@ -317,6 +319,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamran-asif/kamran-/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
@@ -340,6 +343,7 @@
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/kamran-asif/kamran-/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kamran-asif/kamran-/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Two Pointers
