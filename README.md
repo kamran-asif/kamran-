@@ -179,6 +179,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -350,6 +351,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamran-asif/kamran-/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamran-asif/kamran-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -381,6 +383,7 @@
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
