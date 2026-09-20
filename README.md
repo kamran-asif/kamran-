@@ -45,6 +45,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3280-convert-date-to-binary](https://github.com/kamran-asif/kamran-/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/kamran-asif/kamran-/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/kamran-asif/kamran-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -81,6 +82,7 @@
 | [1987-number-of-unique-good-subsequences](https://github.com/kamran-asif/kamran-/tree/main/1987-number-of-unique-good-subsequences/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kamran-asif/kamran-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kamran-asif/kamran-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
@@ -195,6 +197,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/kamran-asif/kamran-/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -348,6 +351,7 @@
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
@@ -393,6 +397,7 @@
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/kamran-asif/kamran-/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Two Pointers
@@ -419,6 +424,7 @@
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -438,6 +444,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
@@ -526,6 +533,7 @@
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Suffix Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +544,7 @@
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +598,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
