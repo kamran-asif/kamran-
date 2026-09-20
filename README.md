@@ -23,6 +23,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kamran-asif/kamran-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
@@ -160,6 +161,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0835-image-overlap](https://github.com/kamran-asif/kamran-/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -242,6 +244,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -364,6 +367,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
