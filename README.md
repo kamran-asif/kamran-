@@ -151,6 +151,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -273,6 +274,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
@@ -417,12 +419,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamran-asif/kamran-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -504,6 +508,7 @@
 | [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,6 +548,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Bracket Sequences
@@ -561,6 +567,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -590,4 +597,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
