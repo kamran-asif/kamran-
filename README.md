@@ -29,6 +29,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kamran-asif/kamran-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kamran-asif/kamran-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -170,6 +171,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
@@ -250,6 +252,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kamran-asif/kamran-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -345,6 +348,7 @@
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamran-asif/kamran-/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamran-asif/kamran-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -374,6 +378,7 @@
 | [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
