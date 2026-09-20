@@ -93,6 +93,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamran-asif/kamran-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kamran-asif/kamran-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kamran-asif/kamran-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
@@ -222,6 +224,7 @@
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kamran-asif/kamran-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kamran-asif/kamran-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
@@ -357,6 +360,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamran-asif/kamran-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +391,7 @@
 | [1316-distinct-echo-substrings](https://github.com/kamran-asif/kamran-/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,4 +606,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 <!---LeetCode Topics End-->
