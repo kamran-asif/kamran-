@@ -78,6 +78,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamran-asif/kamran-/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/kamran-asif/kamran-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/kamran-asif/kamran-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
@@ -194,6 +195,7 @@
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/kamran-asif/kamran-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1345-jump-game-iv](https://github.com/kamran-asif/kamran-/tree/main/1345-jump-game-iv/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -248,6 +250,7 @@
 | [0835-image-overlap](https://github.com/kamran-asif/kamran-/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/kamran-asif/kamran-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kamran-asif/kamran-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
