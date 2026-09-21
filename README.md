@@ -229,6 +229,7 @@
 | [3161-block-placement-queries](https://github.com/kamran-asif/kamran-/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kamran-asif/kamran-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/kamran-asif/kamran-/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -268,6 +269,7 @@
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kamran-asif/kamran-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -326,6 +328,7 @@
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kamran-asif/kamran-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -370,6 +373,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3280-convert-date-to-binary](https://github.com/kamran-asif/kamran-/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kamran-asif/kamran-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamran-asif/kamran-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamran-asif/kamran-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -402,6 +406,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamran-asif/kamran-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Graph Theory
@@ -424,6 +429,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/kamran-asif/kamran-/tree/main/3161-block-placement-queries/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/kamran-asif/kamran-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -449,6 +455,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,6 +599,7 @@
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kamran-asif/kamran-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -746,8 +754,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
