@@ -218,6 +218,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kamran-asif/kamran-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kamran-asif/kamran-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -239,6 +240,7 @@
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kamran-asif/kamran-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kamran-asif/kamran-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -293,6 +295,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamran-asif/kamran-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kamran-asif/kamran-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kamran-asif/kamran-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kamran-asif/kamran-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,10 +549,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamran-asif/kamran-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
