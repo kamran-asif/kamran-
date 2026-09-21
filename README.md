@@ -184,6 +184,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -231,6 +232,7 @@
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/kamran-asif/kamran-/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/kamran-asif/kamran-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -239,6 +241,7 @@
 | ------- | ------- |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
@@ -281,6 +284,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/kamran-asif/kamran-/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
