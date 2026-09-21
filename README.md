@@ -195,6 +195,7 @@
 | [1032-stream-of-characters](https://github.com/kamran-asif/kamran-/tree/main/1032-stream-of-characters/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/kamran-asif/kamran-/tree/main/1178-number-of-valid-words-for-each-puzzle/) | Hard |
+| [1288-remove-covered-intervals](https://github.com/kamran-asif/kamran-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/kamran-asif/kamran-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1345-jump-game-iv](https://github.com/kamran-asif/kamran-/tree/main/1345-jump-game-iv/) | Hard |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
@@ -337,6 +338,7 @@
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/kamran-asif/kamran-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kamran-asif/kamran-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
