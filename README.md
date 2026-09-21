@@ -203,6 +203,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamran-asif/kamran-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kamran-asif/kamran-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -328,6 +329,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/kamran-asif/kamran-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamran-asif/kamran-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
@@ -346,6 +348,7 @@
 | [1840-maximum-building-height](https://github.com/kamran-asif/kamran-/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamran-asif/kamran-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -375,6 +378,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Graph Theory
@@ -504,6 +508,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/kamran-asif/kamran-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -701,4 +706,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/kamran-asif/kamran-/tree/main/3620-network-recovery-pathways/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 <!---LeetCode Topics End-->
