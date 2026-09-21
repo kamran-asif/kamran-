@@ -87,6 +87,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/kamran-asif/kamran-/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kamran-asif/kamran-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kamran-asif/kamran-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kamran-asif/kamran-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kamran-asif/kamran-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/kamran-asif/kamran-/tree/main/3903-smallest-stable-index-i/) | Easy |
