@@ -192,6 +192,7 @@
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/kamran-asif/kamran-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamran-asif/kamran-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -311,6 +312,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kamran-asif/kamran-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kamran-asif/kamran-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/kamran-asif/kamran-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamran-asif/kamran-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/kamran-asif/kamran-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -327,6 +329,7 @@
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kamran-asif/kamran-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1840-maximum-building-height](https://github.com/kamran-asif/kamran-/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/kamran-asif/kamran-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamran-asif/kamran-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/kamran-asif/kamran-/tree/main/2842-count-k-subsequences-of-a-string-with-maximum-beauty/) | Hard |
