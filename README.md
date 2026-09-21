@@ -88,6 +88,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/kamran-asif/kamran-/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamran-asif/kamran-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/kamran-asif/kamran-/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/kamran-asif/kamran-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kamran-asif/kamran-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kamran-asif/kamran-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -121,6 +122,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kamran-asif/kamran-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamran-asif/kamran-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamran-asif/kamran-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kamran-asif/kamran-/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/kamran-asif/kamran-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kamran-asif/kamran-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/kamran-asif/kamran-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kamran-asif/kamran-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -349,6 +353,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/kamran-asif/kamran-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kamran-asif/kamran-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kamran-asif/kamran-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/kamran-asif/kamran-/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kamran-asif/kamran-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kamran-asif/kamran-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -402,6 +407,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamran-asif/kamran-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamran-asif/kamran-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kamran-asif/kamran-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
