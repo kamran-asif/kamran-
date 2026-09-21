@@ -201,6 +201,7 @@
 | [2906-construct-product-matrix](https://github.com/kamran-asif/kamran-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/kamran-asif/kamran-/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kamran-asif/kamran-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/kamran-asif/kamran-/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/kamran-asif/kamran-/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -244,6 +245,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kamran-asif/kamran-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kamran-asif/kamran-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kamran-asif/kamran-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -284,6 +286,7 @@
 | [2935-maximum-strong-pair-xor-ii](https://github.com/kamran-asif/kamran-/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamran-asif/kamran-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamran-asif/kamran-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kamran-asif/kamran-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamran-asif/kamran-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
