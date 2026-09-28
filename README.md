@@ -391,6 +391,7 @@
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/kamran-asif/kamran-/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
@@ -835,4 +836,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/kamran-asif/kamran-/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/kamran-asif/kamran-/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/kamran-asif/kamran-/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
