@@ -109,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -185,6 +186,7 @@
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/kamran-asif/kamran-/tree/main/0212-word-search-ii/) | Hard |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -354,6 +356,7 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/kamran-asif/kamran-/tree/main/0147-insertion-sort-list/) | Medium |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
@@ -699,6 +702,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/kamran-asif/kamran-/tree/main/3161-block-placement-queries/) | Hard |
@@ -797,4 +801,8 @@
 | ------- | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/kamran-asif/kamran-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamran-asif/kamran-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
