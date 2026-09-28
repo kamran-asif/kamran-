@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0068-text-justification](https://github.com/kamran-asif/kamran-/tree/main/0068-text-justification/) | Hard |
+| [0087-scramble-string](https://github.com/kamran-asif/kamran-/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
+| [0087-scramble-string](https://github.com/kamran-asif/kamran-/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamran-asif/kamran-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
