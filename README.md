@@ -187,6 +187,7 @@
 | [0212-word-search-ii](https://github.com/kamran-asif/kamran-/tree/main/0212-word-search-ii/) | Hard |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/kamran-asif/kamran-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -279,6 +280,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kamran-asif/kamran-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/kamran-asif/kamran-/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
