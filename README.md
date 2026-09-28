@@ -504,6 +504,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/kamran-asif/kamran-/tree/main/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/kamran-asif/kamran-/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/kamran-asif/kamran-/tree/main/0344-reverse-string/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
@@ -583,6 +584,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamran-asif/kamran-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/kamran-asif/kamran-/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [0388-longest-absolute-file-path](https://github.com/kamran-asif/kamran-/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -592,6 +594,7 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kamran-asif/kamran-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/kamran-asif/kamran-/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamran-asif/kamran-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -632,6 +635,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kamran-asif/kamran-/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamran-asif/kamran-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/kamran-asif/kamran-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/kamran-asif/kamran-/tree/main/0143-reorder-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kamran-asif/kamran-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
