@@ -110,6 +110,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/kamran-asif/kamran-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/kamran-asif/kamran-/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -188,6 +189,7 @@
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/kamran-asif/kamran-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/kamran-asif/kamran-/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -548,6 +550,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamran-asif/kamran-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kamran-asif/kamran-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -771,10 +774,12 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/kamran-asif/kamran-/tree/main/3845-maximum-subarray-xor-with-bounded-range/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
@@ -807,4 +812,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
