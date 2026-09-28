@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -360,6 +361,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
@@ -701,6 +703,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/kamran-asif/kamran-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kamran-asif/kamran-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
