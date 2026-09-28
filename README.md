@@ -171,6 +171,7 @@
 | [0053-maximum-subarray](https://github.com/kamran-asif/kamran-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
@@ -254,6 +255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0835-image-overlap](https://github.com/kamran-asif/kamran-/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/kamran-asif/kamran-/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kamran-asif/kamran-/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -707,6 +709,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/kamran-asif/kamran-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kamran-asif/kamran-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
