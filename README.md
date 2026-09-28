@@ -22,6 +22,7 @@
 | [0344-reverse-string](https://github.com/kamran-asif/kamran-/tree/main/0344-reverse-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/kamran-asif/kamran-/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0394-decode-string](https://github.com/kamran-asif/kamran-/tree/main/0394-decode-string/) | Medium |
+| [0481-magical-string](https://github.com/kamran-asif/kamran-/tree/main/0481-magical-string/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/kamran-asif/kamran-/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
@@ -525,6 +526,7 @@
 | [0086-partition-list](https://github.com/kamran-asif/kamran-/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/kamran-asif/kamran-/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/kamran-asif/kamran-/tree/main/0344-reverse-string/) | Easy |
+| [0481-magical-string](https://github.com/kamran-asif/kamran-/tree/main/0481-magical-string/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [1023-camelcase-matching](https://github.com/kamran-asif/kamran-/tree/main/1023-camelcase-matching/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kamran-asif/kamran-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
