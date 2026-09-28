@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamran-asif/kamran-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/kamran-asif/kamran-/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
+| [0068-text-justification](https://github.com/kamran-asif/kamran-/tree/main/0068-text-justification/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/kamran-asif/kamran-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/kamran-asif/kamran-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -172,6 +173,7 @@
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/kamran-asif/kamran-/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/kamran-asif/kamran-/tree/main/0068-text-justification/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamran-asif/kamran-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/kamran-asif/kamran-/tree/main/0134-gas-station/) | Medium |
@@ -710,6 +712,7 @@
 | [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/kamran-asif/kamran-/tree/main/0068-text-justification/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/kamran-asif/kamran-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kamran-asif/kamran-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
