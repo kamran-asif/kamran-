@@ -321,6 +321,7 @@
 | [0140-word-break-ii](https://github.com/kamran-asif/kamran-/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/kamran-asif/kamran-/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/kamran-asif/kamran-/tree/main/0242-valid-anagram/) | Easy |
+| [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kamran-asif/kamran-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -386,6 +387,7 @@
 | [0043-multiply-strings](https://github.com/kamran-asif/kamran-/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/kamran-asif/kamran-/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/kamran-asif/kamran-/tree/main/0224-basic-calculator/) | Hard |
+| [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
 | [0486-predict-the-winner](https://github.com/kamran-asif/kamran-/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/kamran-asif/kamran-/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
@@ -818,4 +820,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/kamran-asif/kamran-/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
