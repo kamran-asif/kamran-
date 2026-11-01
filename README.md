@@ -206,6 +206,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kamran-asif/kamran-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/kamran-asif/kamran-/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/kamran-asif/kamran-/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0739-daily-temperatures](https://github.com/kamran-asif/kamran-/tree/main/0739-daily-temperatures/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/kamran-asif/kamran-/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/kamran-asif/kamran-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kamran-asif/kamran-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -616,6 +617,7 @@
 | [0388-longest-absolute-file-path](https://github.com/kamran-asif/kamran-/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0394-decode-string](https://github.com/kamran-asif/kamran-/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/kamran-asif/kamran-/tree/main/0739-daily-temperatures/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kamran-asif/kamran-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -735,6 +737,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/kamran-asif/kamran-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/kamran-asif/kamran-/tree/main/0739-daily-temperatures/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
