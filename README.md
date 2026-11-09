@@ -227,6 +227,7 @@
 | [1473-paint-house-iii](https://github.com/kamran-asif/kamran-/tree/main/1473-paint-house-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kamran-asif/kamran-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/kamran-asif/kamran-/tree/main/1563-stone-game-v/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kamran-asif/kamran-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/kamran-asif/kamran-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/kamran-asif/kamran-/tree/main/1803-count-pairs-with-xor-in-a-range/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/kamran-asif/kamran-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -566,6 +567,7 @@
 | [0239-sliding-window-maximum](https://github.com/kamran-asif/kamran-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/kamran-asif/kamran-/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/kamran-asif/kamran-/tree/main/0630-course-schedule-iii/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kamran-asif/kamran-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kamran-asif/kamran-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kamran-asif/kamran-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/kamran-asif/kamran-/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -726,6 +728,7 @@
 | [0218-the-skyline-problem](https://github.com/kamran-asif/kamran-/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/kamran-asif/kamran-/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0732-my-calendar-iii](https://github.com/kamran-asif/kamran-/tree/main/0732-my-calendar-iii/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kamran-asif/kamran-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamran-asif/kamran-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/kamran-asif/kamran-/tree/main/3161-block-placement-queries/) | Hard |
 ## Bracket Sequences
@@ -760,6 +763,7 @@
 | [0054-spiral-matrix](https://github.com/kamran-asif/kamran-/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/kamran-asif/kamran-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/kamran-asif/kamran-/tree/main/0068-text-justification/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kamran-asif/kamran-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/kamran-asif/kamran-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kamran-asif/kamran-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/kamran-asif/kamran-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
